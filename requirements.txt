@@ -1,0 +1,12 @@
+torch
+torchvision
+torchinfo
+timm
+grad-cam
+albumentations
+opencv-python
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
